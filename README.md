@@ -1,6 +1,6 @@
 # 🧮 Input Character Counter - README
 
-<https://via.placeholder.com/600x400/4a90e2/ffffff?text=Character+Counter+App> <!-- Sugerencia: Reemplazar con imagen real -->
+![Captura Contador de Caracteres](./images/Captura-Contador.PNG)
 
 ## ✨ Descripción
 
